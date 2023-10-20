@@ -7,3 +7,7 @@ def plochad_square(a):
     return a**2
 print(perimetr(3,4,5))
 print(plochad_square(5))
+
+print("This is all what i want to say")
+
+#Заяц,гусь,заяц,гусь
