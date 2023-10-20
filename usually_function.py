@@ -10,4 +10,6 @@ print(plochad_square(5))
 
 print("This is all what i want to say")
 
+print("What are fuck is gona up")
+print("Something say me how to work with it")
 #Заяц,гусь,заяц,гусь
